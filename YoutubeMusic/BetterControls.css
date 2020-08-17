@@ -23,7 +23,7 @@ html, body { background: #1D1D1D !important; }
 .ytmusic-player-page {
     
     /* Remove this line to remove the gradient background, if you so prefer */
-    background-image: linear-gradient(#363636, black) !important;
+    background-image: linear-gradient(#181818, #181818) !important;
     
 }
 
